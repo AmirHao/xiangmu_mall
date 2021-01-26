@@ -1,0 +1,2 @@
+# cookie过期时间
+CAR_COOKIE_EXPIRE = 60*60*24*15
